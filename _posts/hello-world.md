@@ -8,8 +8,8 @@ excerpt: >-
 coverImage: /assets/blog/hello-world/cover.jpg
 date: '2021-05-12T05:35:07.322Z'
 author:
-  name: Tim Neutkens
-  picture: /assets/blog/authors/tim.jpeg
+  name: Frank Taillandier
+  picture: /assets/blog/authors/frank.jpg
 ogImage:
   url: /assets/blog/hello-world/cover.jpg
 _template: post
